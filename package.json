@@ -1,0 +1,19 @@
+{
+  "name": "auto-push-github-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to auto push files to GitHub repos",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "https://github.com/xsrazy",
+  "license": "ISC"
+}
