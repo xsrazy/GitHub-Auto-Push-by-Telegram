@@ -2,7 +2,7 @@
 
 This is a Node.js Telegram bot that automatically pushes a specified file to one or more GitHub repositories at a set interval. The bot is controlled via Telegram inline buttons and supports multiple users independently.
 
-Created by https://github.com/xsrazy
+Created by https://github.com/xsrazy  |  Auto Push GitHub Bot by [Telegram](https://t.me/GitHubAutoPushbot)
 
 ![](screenshot.png)
 
