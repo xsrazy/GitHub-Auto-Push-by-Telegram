@@ -4,6 +4,8 @@ This is a Node.js Telegram bot that automatically pushes a specified file to one
 
 Created by https://github.com/xsrazy
 
+![](screenshot.png)
+
 ## Features
 
 - Set GitHub Token, Username, Repo(s) sequentially via guided prompts
