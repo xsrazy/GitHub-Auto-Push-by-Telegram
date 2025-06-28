@@ -96,4 +96,4 @@ pm2 start bot.js
 
 ## Credits
 
-Created by [Xsrszy](https://github.com/xsrazy)
+Created by [Xsrazy](https://github.com/xsrazy)
