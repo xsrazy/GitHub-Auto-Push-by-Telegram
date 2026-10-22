@@ -31,7 +31,7 @@ npm install
 
 3. Create a `.env` file and add your Telegram Bot Token:
 ```
-TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+TELEGRAM_BOT_TOKEN=your-bot-token-here
 ```
 
 4. Run the bot:
@@ -93,6 +93,10 @@ For running the bot continuously, you can use PM2:
 npm install -g pm2
 pm2 start bot.js
 ```
+
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.
 
 ## Credits
 
